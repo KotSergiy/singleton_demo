@@ -1,3 +1,4 @@
 require './logger'
 
-Logger.instance.log_something 'lalala!!!'
+Logger.instance.log_something 'Lalala!!!'
+puts 'Success!'
